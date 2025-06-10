@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Writer</string>
+    <string name="title">我的小说</string>
+    <string name="edit_hint">标题</string>
+    <string name="editContent_hint">请输入内容...</string>
+    <string name="editSave">保存</string>
+</resources>
